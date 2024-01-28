@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://pradeeps033.github.io/Web-Projects/)
-- Live Site URL: [](https://pradeeps033.github.io/Web-Projects/)
+- Solution URL: [Solution](https://pradeeps033.github.io/Web-Projects/)
+- Live Site URL: [LiveSite](https://pradeeps033.github.io/Web-Projects/)
 
 ## Useful resources
 
-- [](https://www.w3schools.com/)
+- [w3schools](https://www.w3schools.com/)
 
 ## Author
 
